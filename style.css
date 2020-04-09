@@ -37,23 +37,23 @@ body {
 
 
 .item-1 {
-    background: url(frst.JPG) no-repeat center center;
+    background: url(https://cdn.pixabay.com/photo/2016/01/19/17/08/vintage-1149558_960_720.jpg) no-repeat center center;
     background-size: cover;
 
 }
 
 .item-2 {
-    background: url(scnd.JPG) no-repeat center center;
+    background: url(https://cdn.pixabay.com/photo/2015/11/19/21/10/knowledge-1052010_960_720.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .item-3 {
-    background: url(trd.JPG) no-repeat center center;
+    background: url(https://cdn.pixabay.com/photo/2013/03/02/02/41/city-89197_960_720.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .item-4 {
-    background: url(frt.JPG) no-repeat center center;
+    background: url(https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_960_720.jpg) no-repeat center center;
     background-size: cover;
 
 }
