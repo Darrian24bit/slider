@@ -37,23 +37,23 @@ body {
 
 
 .item-1 {
-    background: url(../img/frst.JPG) no-repeat center center;
+    background: url(frst.JPG) no-repeat center center;
     background-size: cover;
 
 }
 
 .item-2 {
-    background: url(../img/scnd.JPG) no-repeat center center;
+    background: url(scnd.JPG) no-repeat center center;
     background-size: cover;
 }
 
 .item-3 {
-    background: url(../img/trd.JPG) no-repeat center center;
+    background: url(trd.JPG) no-repeat center center;
     background-size: cover;
 }
 
 .item-4 {
-    background: url(../img/frt.JPG) no-repeat center center;
+    background: url(frt.JPG) no-repeat center center;
     background-size: cover;
 
 }
